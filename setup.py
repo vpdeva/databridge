@@ -5,7 +5,7 @@ setup(
     name='databridge',
     version='0.1',
     description='A versatile data library for cloud and analytics',
-    author='Your Name',
+    author='Vishnu Devarajan',
     packages=find_packages(),
     install_requires=[
         'pandas',
